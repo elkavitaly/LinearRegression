@@ -1,0 +1,20 @@
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\bin\Debug\LinearRegression.exe.config
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\bin\Debug\LinearRegression.exe
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\bin\Debug\LinearRegression.pdb
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.Properties.Resources.resources
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.Cache
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.exe
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.pdb
+C:\Users\Виталий\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.Form1.resources
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\bin\Debug\LinearRegression.exe.config
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\bin\Debug\LinearRegression.exe
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\bin\Debug\LinearRegression.pdb
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.csprojAssemblyReference.cache
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.Form1.resources
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.Properties.Resources.resources
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.csproj.GenerateResource.cache
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.csproj.CoreCompileInputs.cache
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.exe
+D:\Disc C\Users\source\repos\Statistic\LinearRegression\obj\Debug\LinearRegression.pdb
